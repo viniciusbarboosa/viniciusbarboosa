@@ -41,9 +41,10 @@
   <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github" target="_blank">
   </a>
 </div>
+<br>
 
 <div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
+    
+  ![Snake animation](https://github.com/viniciusbarboosa/viniciusbarboosa/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
