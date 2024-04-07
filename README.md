@@ -4,7 +4,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/vinicius-barboosa-2542b0251/">Vinicius Barbosa 😃️</a>
+    <a href="https://www.linkedin.com/in/vinicius-barboosa-2542b0251/">Vinicius Barbosa 😃</a>
   </h1>
   <li>💻 Atualmente cursando Desenvolvimento de Sistemas ...</li>
   <li>📧 email : viniciusbarboosa58@gmail.com / vindzn88@gmail.com</li>
