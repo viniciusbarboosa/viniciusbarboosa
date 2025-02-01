@@ -8,7 +8,7 @@
   </h1>
   <li>💻 Atualmente cursando Desenvolvimento de Sistemas ...</li>
   <li>📧 email : viniciusbarboosa58@gmail.com / vindzn88@gmail.com</li>
-  <li>📱 phone : (81) 9216-2971 / (81) 98658-7456</li>
+  <li>📱 phone : (81) 9216-2971 
   <br>
   <p align="center">
     Tenho a meta de virar um DEV WEB e estou compartilhando um pouco do meu conhecimento e aprendizado aqui no GitHub
