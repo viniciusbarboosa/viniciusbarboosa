@@ -15,23 +15,29 @@
 ## 📈 Estatísticas do GitHub  
 <div align="center">
   <a href="https://github.com/viniciusbarboosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusbarboosa&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbarboosa&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusbarboosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=50"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbarboosa&layout=compact&langs_count=7&theme=radical&border_radius=50"/>
   </a>
 </div>
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-between; gap: 15px;">
+
+<img alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   
-  <img align="center" alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="CodeIgniter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
-  <img align="center" alt="Bootstrap" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="Laravel" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  
+  <img alt="CodeIgniter 4" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
+  
+  <img alt="Bootstrap" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  
+  <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
+  <img alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  
+  <img alt="Node.js" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
 
 </div>
 
