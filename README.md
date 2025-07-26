@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Vinicius Barbosa  
-### **DEV FREELANCE WEB**  
+### **DEV WEB**  
 
 💻 **Especializado em Desenvolvimento Web**  
 📧 **Email:** viniciusbarboosa58@gmail.com | vindzn88@gmail.com  
