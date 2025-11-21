@@ -6,9 +6,9 @@
 💻 **Especializado em Desenvolvimento Web**  
 📧 **Email:** viniciusbarboosa58@gmail.com | vindzn88@gmail.com  
 📱 **Telefone:** (81)99216-2971  
-🔗 **Sistema EvoDoc:** [Acesse aqui]([https://evodoc.com.br/index.php/login](https://evodoc.evodocsistemas.com/index.php/login))  
+🔗 **Sistema EvoDoc:** [Acesse aqui]((https://evodoc.evodocsistemas.com/index.php/login))  
 🔗 **Sistema EvoFinanças:** [Acesse aqui](https://evofinancas.evodocsistemas.com/)  
-🔗 **Sistema EvoAtendente(ChatBot):** [Acesse aqui]([https://evofinancas.evodocsistemas.com/](https://evoatendente.evodocsistemas.com/))  
+🔗 **Sistema EvoAtendente(ChatBot):** [Acesse aqui]((https://evoatendente.evodocsistemas.com/))  
 
 </div>
 
